@@ -1,3 +1,9 @@
 # Cursos do let's Code
 
-`print("hello World!")`
+## Data Science
+
+### Introdução ao Python
+
+- Instalação do Python e do Vscode;
+- Primeiro programa
+- O que são variáveis
